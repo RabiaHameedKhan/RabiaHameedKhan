@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **making user-friendly websites**
 
-- 🌱 I’m currently learning **various Programming languages and frameworks such as javascript, react js etc**
+- 🌱 I’m currently learning **various Programming languages and frameworks such as javascript, react js ,  CSS tailwand etc**
 
-- 💬 Ask me about **Html, css, javascript, bootstrap, C++.**
+- 💬 Ask me about **Html, css, javascript, react js, C++.**
 
 - 📫 How to reach me **rabiahameedkhan27@gmail.com**
 
