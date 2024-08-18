@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **making user-friendly websites**
 
-- 🌱 I’m currently learning **various Programming languages and frameworks such as javascript, react native etc**
+- 🌱 I’m currently learning **various Programming languages and frameworks such as javascript, react js etc**
 
 - 💬 Ask me about **Html, css, javascript, bootstrap, C++.**
 
