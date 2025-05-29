@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **various Programming languages and frameworks such as javascript, react js ,  CSS tailwand etc**
 
-- 💬 Ask me about **Html, css, javascript, react js, C++.**
+- 💬 Ask me about **Html, CSS, Javascript, React JS, Material-UI, C++.**
 
 - 📫 How to reach me **rabiahameedkhan27@gmail.com**
 
