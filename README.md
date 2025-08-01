@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rabia Khan</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate Frontend Developer from Pakistan</h3>
 
 - 🔭 I’m currently working on **making user-friendly websites**
 
-- 🌱 I’m currently learning **various Programming languages and frameworks such as javascript, react js ,  CSS tailwand etc**
+- 🌱 I’m currently learning **various Programming languages and frameworks such as javascript, react js ,  CSS tailwand, material-ui etc**
 
-- 💬 Ask me about **Html, CSS, Javascript, React JS, Material-UI, C++.**
+- 💬 Ask me about **Html, CSS, Javascript, React JS, Material-UI, Tailwind CSS, C++.**
 
 - 📫 How to reach me **rabiahameedkhan27@gmail.com**
 
